@@ -1,5 +1,5 @@
 from MyModule import *
-
+#
 def main():
     while True:
         print("\nДоступные действия:")
